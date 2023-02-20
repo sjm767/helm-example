@@ -1,6 +1,6 @@
 image:
   registry: docker.io
-  repository: kubetm/database-service   # kubetm -> 개인 <docker id>로 변경
+  repository: sjm767/database-service   # kubetm -> 개인 <docker id>로 변경
   tag: latest
 # docker build -t kubetm/database-service:latest
 
