@@ -9,20 +9,6 @@ resources
 - application-qa.yml
 - application-prod.yml
 
-deploy
-  docker
-    Dockerfile
-
-  helm
-    tomcat
-      values-dev.yaml
-      values-qa.yaml
-      values-prod.yaml
-
-  kubectl
-    ns-dev.yaml
-    ns-qa.yaml
-    ns-prod.yaml
     
 
 
