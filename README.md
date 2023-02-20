@@ -13,7 +13,7 @@ resources
 Docker
 - Dockerfile
 
-Helm
+Helm (tomcat)
 - values-dev.yaml
 - values-qa.yaml
 - values-prod.yaml
